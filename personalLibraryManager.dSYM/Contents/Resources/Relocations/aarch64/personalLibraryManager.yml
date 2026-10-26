@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/tayloryoung/Documents/Computer_Science/C Programming/personalLibraryManager'
+binary-path:     '/Users/tayloryoung/Documents/Computer_Science/C_Programming_Refresher/personalLibraryManager'
 relocations:     []
 ...
